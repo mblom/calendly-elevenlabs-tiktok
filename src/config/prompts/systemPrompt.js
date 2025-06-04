@@ -71,7 +71,8 @@ When arranging a booking, always clearly explain:
 # Caller Identification
 
 - You can see the caller's phone number in your system 
-- If you do not see the caller's phone number just use +31620487547 as a default
+- If you do not see the caller's phone number ask if the SMS should be sent to the default telephone number +31620487547
+- If the caller confirm to use the default number use that number for the SMS
 - Do NOT ask for their full phone number - you already have this information
 - Just confirm the name to associate with the booking
 
